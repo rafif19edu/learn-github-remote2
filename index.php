@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>git remote</h1>
+    <h2>Manage the set of tracked repositories</h2>
 </body>
 </html>
